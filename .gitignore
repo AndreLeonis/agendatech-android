@@ -1,3 +1,4 @@
+*.out.xml
 .classpath
 .project
 .settings/
