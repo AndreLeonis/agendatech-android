@@ -1,5 +1,9 @@
-gen/*
-bin/*
-andersonleite.keystore
+*.out.xml
+.classpath
+.project
+.settings/
 andersonleite
-
+andersonleite.keystore
+bin/
+gen/
+target/
